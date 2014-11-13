@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a better
+programmer in the long term?
+
+    More organized, less stress when modifying code on multiple projects.
+	I usually save the innas and outtas to benchmark the version once it is stable.
+	Much quicker response to change request and bug fixes.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+    
+    The big con of automatic commits is there would be no information about why the commit
+	was executed or if it did happen to prompt for a comment you may not have anything useful
+	to add because you are in the middle of a edit.
+	
+	Pros of automatic commit are if the system crashes you'll have something...maybe.
+	
+	Con of manually committing is you have to be motivated to do the commit and not just keep coding.
+	
+	Pro of manually committing is you get to choose what are logical points in the development
+	to commit your edits/changes and add comments that are meaningful to you.
+	
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I'm guessing Google Docs wasn't intended for use in a complex development environment
+	and there is no need for establishing a relationship between file...besides it's Google...
+
+How can you use the commands git log and git diff to view the history of files?
+    
+    You can use git log --stat and find the answer faster.
+	I'm using MobaXterm and the config color command doesn't work.
+	Also, you have to use "git ... | less" to get paging with any of the commands 
+
+How might using version control make you more confident to make changes that
+could break something?
+    
+    More confident that making changes won't destroy existing code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Replacing SVN with git
