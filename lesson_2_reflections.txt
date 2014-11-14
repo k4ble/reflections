@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates the directory .git containing 3 files and 4 directories.
+This must be the structure for the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Seems to be an abstract location and the other two are physical.
+Not sure since you can remove items.
+
+
