@@ -6,4 +6,5 @@ How is the staging area different from the working directory and the repository?
 Seems to be an abstract location and the other two are physical.
 Not sure since you can remove items.
 
-
+How can you use the staging area to make sure you have one commit per logical change?
+By staging each change as they are made and tested.
