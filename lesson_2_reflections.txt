@@ -8,3 +8,10 @@ Not sure since you can remove items.
 
 How can you use the staging area to make sure you have one commit per logical change?
 By staging each change as they are made and tested.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When developing software for processing HL7 messages for multiple clients there is usually a common set of transforms
+with slight differences added for each client.
+The master could provide a template for new clients.
+
+
