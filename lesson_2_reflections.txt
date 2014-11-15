@@ -14,4 +14,17 @@ When developing software for processing HL7 messages for multiple clients there 
 with slight differences added for each client.
 The master could provide a template for new clients.
 
+How do the diagrams help you visualize the branch structure?
+The same way a picture helps visualize an object?
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+You get the changes and the history (adds and commits) for both branches.
+Maybe it's the only way you could think of???
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+When there is a conflict git has no way of knowing what is intended.
+If there are no conflicts git has enough information to do the merge automagically.
+
 
