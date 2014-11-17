@@ -3,3 +3,7 @@ If you need to share the project with others.  To backup the project.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 So you'll know when a change may have happened if someone else is modifing the files.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Probably never because I will probably stick with SVN and just use git to get copies of files when I have to.
+
